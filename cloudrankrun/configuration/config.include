@@ -1,0 +1,8 @@
+basedata_dir="/path/to/cloudrank-d/basedata"
+tempdata_dir="/path/to/yourtempdirectory"
+hdfsdata_dir="/cloudrank-data"
+basejars_dir="/path/to/cloudrank-d/cloudrankrun/jars"
+
+
+hadoop_examples_jar="hadoop-examples-1.0.2.jar"
+hadoop_streaming_jar="hadoop-streaming-1.0.2.jar"

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+ <configuration>                
+   <property>
+     <name>test.randomwrite.min_key</name>
+     <value>10</value>
+   </property>
+   <property>
+     <name>test.randomwrite.max_key</name>
+     <value>1000</value>
+   </property>
+   <property>
+     <name>test.randomwrite.min_value</name>
+     <value>0</value>
+   </property>
+   <property>
+     <name>test.randomwrite.max_value</name>
+     <value>20000</value>
+   </property>
+   <property>
+     <name>test.randomwrite.bytes_per_map</name>
+     <value>346030</value>
+   </property>
+   <property>
+     <name>test.randomwriter.maps_per_host</name>
+     <value>1</value>
+   </property>
+ </configuration>
